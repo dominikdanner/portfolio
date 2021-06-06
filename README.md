@@ -1,2 +1,3 @@
 # Personal Portfolio
-- Portfolio gets hosted on Github Pages
+- Portfolio Host: Github Pages
+- <a href="https://dominikdanner.github.io">Click here to visit my Portfolio</a>
